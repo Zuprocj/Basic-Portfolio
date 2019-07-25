@@ -1,0 +1,22 @@
+* {
+    background: #ffffff;
+    border-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif, helvetica Neue;
+    width: 960px;
+}
+p {
+    color: #777777; 
+}
+h1 {
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainheader {
+    background: #ffffff;
+    border-color: #cccccc;
+}
+
+footer {
+    background: #666666
+}
